@@ -1,0 +1,1252 @@
+# 自动生成的书签配置文件
+# 由bookmark-processor.js生成于 2026-04-24T07:11:27.967Z
+# 若要更新，请将新的书签HTML文件放入bookmarks/目录
+# 此文件使用模块化配置格式，位于config/user/pages/目录下
+
+title: 我的书签
+subtitle: 从浏览器导入的书签收藏
+categories:
+  - name: 根目录书签
+    icon: fas fa-star
+    path:
+      - 根目录书签
+    sites:
+      - name: Releases · ProtonVPN/win-app - GitHub | Release Alert
+        url: https://releasealert.dev/github/ProtonVPN/win-app
+        icon: fas fa-link
+        description: ''
+  - name: 音乐
+    icon: fas fa-folder
+    path:
+      - 音乐
+    subcategories:
+      - name: 学习音乐
+        icon: fas fa-folder
+        path:
+          - 音乐
+          - 学习音乐
+        sites:
+          - name: 【专注自习室3.0】雨天最适合学习啦！转换场景陪你学习|超舒服的学习白噪音_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1xz411z7b8?spm_id_from=333.999.0.0
+            icon: fas fa-link
+            description: ''
+          - name: 【音乐】一起努力！10小时纯音乐 陪你安静看书/复习/写论文/复习考试 宫崎骏_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1ax411Z7GA?spm_id_from=333.999.0.0
+            icon: fas fa-link
+            description: ''
+          - name: 【专注自习室】氛围感max|陪伴你的惬意时光|3小时番茄钟|放松白噪声_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1wu411q7yw?spm_id_from=333.999.0.0
+            icon: fas fa-link
+            description: ''
+          - name: 【音乐】专注于一事 吉卜力工作室の背景音乐 适合安静看书/复习/写论文/复习考试的_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1D7411P7mJ/?spm_id_from=333.999.0.0&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 班得瑞20周年精选20首最好听的清音乐，都是经典中的经典！_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1SG411c7gs/?spm_id_from=333.999.0.0&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 电影《菊次郎的夏天》配乐：The Rain - 久石让_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1dS4y1J7nQ/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: ▶ Sleepyhead
+            url: https://music.163.com/#/song?id=27588470
+            icon: fas fa-link
+            description: ''
+          - name: 菊次郎的夏天 原声集_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1f5411V78A/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 3小时享受Yiruma美妙的钢琴世界-最佳作品推荐_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1C64y167r7/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+      - name: 运动歌曲
+        icon: fas fa-folder
+        path:
+          - 音乐
+          - 运动歌曲
+        sites:
+          - name: 《头文字D》佐藤真子与池谷浩一郎 See You, My Best Love_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1L4411J7bx/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: '[BDrip/1080P]【盖亚奥特曼】OP/ED合集_哔哩哔哩_bilibili'
+            url: https://www.bilibili.com/video/BV1yV411o7wa/?spm_id_from=333.337.search-card.all.click
+            icon: fas fa-link
+            description: ''
+          - name: 《灌篮高手》主题曲《直到世界的尽头》献给青春的记忆——三井寿_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1K4411d7mf/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 【4K收藏级画质】名侦探柯南主题曲《转动命运之轮》现场——坂井泉水！！！_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1mb4y1S7rR/?spm_id_from=333.337.search-card.all.click
+            icon: fas fa-link
+            description: ''
+          - name: 疾风无敌银堡垒 OP アイアンリーガー ～限りなき使命～ AI 4K (MAD·AMV) (爷青回系列)_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1Xh411s74C/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: Iron Leaguer疾风战士 NCED_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV19s411t7FS?p=2&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 合唱OP_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1wW411V7fr?p=9&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 经典动漫犬夜叉片尾曲滨崎步的《Dearest》完整版，有多少人看过听过呢_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1ty4y1J7nJ/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 【4K】林肯公园《Numb》MV 2003 官方4K修复版_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1Kg411379a/?vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 【画质修复】M2M - The Day You Went Away_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1Lr4y1T7iL/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 【4K60FPS】高耀太《火花》经典现场！炫舞当年的霸榜神曲！_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1ZN4y1j7um/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 【tATu】Loves me not现场 童年经典_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1wt411p7Bz/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 【t.A.T.u.】Loves me not_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1Bx411y7wM/?spm_id_from=autoNext&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 高达seed&amp;destiny歌曲合集！op&amp;ed&amp;插曲！_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1GN411F7hf/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 深海的孤独MV_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1QW411t7Yh/?vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 数码宝贝·前田爱 I Wish_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1hV4y197SQ/?spm_id_from=333.788.recommend_more_video.0&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 【童话＋听歌向】— 绒布兔子的祈祷（梶浦由记+小川范子）_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV18s411o7jF/?spm_id_from=333.788.recommend_more_video.2&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+      - name: just music
+        icon: fas fa-folder
+        path:
+          - 音乐
+          - just music
+        sites:
+          - name: 【棋魂OP】Dream-Get Over（含Live 2002 Process现场版与making）_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1FW411N7kf/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: Dream-Get Over(Making Clip)_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1FW411N7kf/?p=2&spm_id_from=pageDriver&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: I swear_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1ux411A7fw?p=1&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 【棋魂】OP ED BGM ALL/TV版全合集(中日字幕)_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1oJ411E7Hq/?spm_id_from=333.337.search-card.all.click
+            icon: fas fa-link
+            description: ''
+          - name: 空之轨迹FC ED「星の在り処」完整版_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1dx411c7At/?spm_id_from=333.337.search-card.all.click
+            icon: fas fa-link
+            description: ''
+          - name: 【久石让】2008年武道馆音乐会（~与宫崎骏动画共同走过的25年~）【2P+花絮+配合动画】_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1ys411U7h6/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: '18 where my story begins~op theme #4_哔哩哔哩_bilibili'
+            url: https://www.bilibili.com/video/BV1Hs411o72f?p=18&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 【听歌+美图向】梶浦由记—翼年代记（Tsubasa） OST1_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV11s411o7mc/?spm_id_from=333.999.0.0&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: う～み - 星の在り処 空之轨迹 开场OP_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1Qx41197XN/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 【听歌看剧】speedy speed boy头文字D经典音乐 第二季第5集 拓海VS须藤京一 有点上头_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV17K4y1e7ei/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 《头文字D》碓冰山对决（上）【Stay + Lost Into The Night】_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1DP4y1C7yc/?spm_id_from=autoNext&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+      - name: 音乐下载平台
+        icon: fas fa-folder
+        path:
+          - 音乐
+          - 音乐下载平台
+        sites:
+          - name: 孙燕姿-mp3在线免费下载-歌曲宝-找歌就用歌曲宝-MP3音乐高品质在线免费下载
+            url: https://www.gequbao.com/s/%E5%AD%99%E7%87%95%E5%A7%BF
+            icon: fas fa-link
+            description: ''
+          - name: 排行榜 – 动漫无损音乐下载资讯站_ACG漫音社_专注分享二次元高品质音乐~
+            url: http://www.acgjc.com/rank/?tab=recommend
+            icon: fas fa-link
+            description: ''
+      - name: 睡前音乐
+        icon: fas fa-folder
+        path:
+          - 音乐
+          - 睡前音乐
+        sites:
+          - name: 【白噪音】【作业向】【放松】走在铺满枫叶的小路上（树上的叶子轻轻地落在地上的声音）_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1x4411f79s/?vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+    sites:
+      - name: ▶ Open Your Heart
+        url: https://music.163.com/#/outchain/2/29283125/
+        icon: fas fa-link
+        description: ''
+  - name: nekomini
+    icon: fas fa-folder
+    path:
+      - nekomini
+    sites:
+      - name: 'Nekomini 2023-12-28 22 52, Free New Xxx Teen and Fingering WebCam c7: CamsLib - Free WebCams Records &amp; CamWhores Movies at CamsLib'
+        url: https://camslib.com/videos/nekomini-2023-12-28-2252-8909964431980948296
+        icon: fas fa-link
+        description: ''
+      - name: nekomini Stripchat webcam recordings, Archivebate
+        url: https://archivebate.com/watch/11027033
+        icon: fas fa-link
+        description: ''
+      - name: 巨龙征服者 – Hanabi Games
+        url: https://hanabigames.com/?p=4446
+        icon: fas fa-link
+        description: ''
+      - name: Kirikiroid2模拟器 | 安卓游戏 - TouchGal
+        url: https://www.touchgal.us/2da5cfd6
+        icon: fas fa-link
+        description: ''
+      - name: ToHeart | ToHeart リメイク | PC 游戏 - TouchGal
+        url: https://www.touchgal.us/c786ba95
+        icon: fas fa-link
+        description: ''
+      - name: 'ToHeart2 迷宫旅行者 | Final Dragon Chronicle: Guilty Requiem | PC 游戏 - TouchGal'
+        url: https://www.touchgal.us/00913cab
+        icon: fas fa-link
+        description: ''
+      - name: 白色相簿2 EXTENDED EDITION Special Contents | white album2 - extended edition special contents | PC 游戏 - TouchGal
+        url: https://www.touchgal.us/c00865f1
+        icon: fas fa-link
+        description: ''
+      - name: 寒蝉鸣泣之时 虚崩篇 - ひぐらしのなく頃に 虚崩し編 | PC 游戏 - TouchGal
+        url: https://www.touchgal.us/3bf4efeb
+        icon: fas fa-link
+        description: ''
+      - name: 白色相簿2 Mini Afterstory | WHITE ALBUM2 ミニアフターストーリー | PC 游戏 - TouchGal
+        url: https://www.touchgal.us/907d3fb3
+        icon: fas fa-link
+        description: ''
+      - name: 心之彼端2 | ToHeart2 AnotherDays | PC 游戏 - TouchGal
+        url: https://www.touchgal.us/yan30m6t
+        icon: fas fa-link
+        description: ''
+      - name: 各类常用软件汇总
+        url: https://mp.weixin.qq.com/s/Ksa6djfCI4XAFzLpdfvRkQ
+        icon: fas fa-link
+        description: ''
+      - name: ',【SLG-策略游戏】 | 梓澪の妙妙屋 | 免费Galgame仓库&amp;下载站'
+        url: https://zi0.cc/,%E3%80%90SLG-%E7%AD%96%E7%95%A5%E6%B8%B8%E6%88%8F%E3%80%91
+        icon: fas fa-link
+        description: ''
+      - name: 江苏省2026年度考试录用公务员（南京市）网上报名
+        url: http://218.94.85.11:8000/Home/ExamHome?examid=00251020145435
+        icon: fas fa-link
+        description: ''
+      - name: OPLUS.icu - 一加OnePlus网址导航
+        url: https://oplus.icu/
+        icon: fas fa-link
+        description: ''
+      - name: Nekomini profile &amp; videos Cam Videos | OnScreens.me
+        url: https://www.onscreens.me/m/nekomini
+        icon: fas fa-link
+        description: ''
+      - name: '[ぺぺろんちーの] ゴブリンの巣穴 the Fable - 黃油叔的黃油情報 | R18 - H GAME'
+        url: https://h-ero-game.com/archives/20743/%E3%82%B4%E3%83%96%E3%83%AA%E3%83%B3%E3%81%AE%E5%B7%A3%E7%A9%B4-the-fable/
+        icon: fas fa-link
+        description: ''
+      - name: '[SLG] ゴブリンの巣穴 the Fable+全DLC整合版 V20230508 机翻汉化版 [9.4G/RJ388373] | H-GAME - 人人为我论坛'
+        url: https://hjd2048.com/2048/read.php?tid=10009466
+        icon: fas fa-link
+        description: ''
+      - name: RPG游戏裡 天遊二次元
+        url: https://www.tiangal.com/category/exrpg
+        icon: fas fa-link
+        description: ''
+      - name: '哥 布 林巢穴3 the Fable — Yandex: found 3 million results'
+        url: https://wap.yandex.com/search?text=%E5%93%A5+%E5%B8%83+%E6%9E%97%E5%B7%A2%E7%A9%B43+the+Fable&lr=21206
+        icon: fas fa-link
+        description: ''
+      - name: 3190【爆款SLG/官中】哥布林巢穴 theFable 淫辱物語編纂版 ゴブリンの巣穴theFable 淫辱物語編纂版-ACG俱乐部 - 各类游戏免费下载
+        url: https://www.acgjlb.cc/19638.html
+        icon: fas fa-link
+        description: ''
+      - name: 【PC】ゴブリンの巣穴/哥布林的巢穴【123】 - 免费galgame资源下载
+        url: https://game.acgs.one/game/1730.html
+        icon: fas fa-link
+        description: ''
+      - name: 中文字幕 - 98堂[原色花堂] - Powered by Discuz!
+        url: https://lw7f.srg3f.net/forum-109-1.html
+        icon: fas fa-link
+        description: ''
+      - name: 【新人必看】 - 综合讨论区 - 98堂[原色花堂] - Powered by Discuz!
+        url: https://lw7f.srg3f.net/thread-1933705-1-1.html
+        icon: fas fa-link
+        description: ''
+      - name: 'GXshushu/CrackIt: 一个字典爆破zip、rar、7z压缩文件解压密码的python脚本'
+        url: https://github.com/GXshushu/CrackIt?tab=readme-ov-file
+        icon: fab fa-github
+        description: ''
+      - name: RCTD545 RCTD-545中文字幕种子下载-奇下载字幕
+        url: https://www.qixiazai.com/show/RCTD-545_412559.htm
+        icon: fas fa-link
+        description: ''
+      - name: 注册账户 - 魔戒.net
+        url: https://mojie.kim/register?aff=u48C0HOk
+        icon: fas fa-link
+        description: ''
+      - name: 免费的在线文档翻译器——保留原文档的排版（Word、PDF、Excel、Powerpoint、OpenOffice、文本）
+        url: https://www.onlinedoctranslator.com/zh-CN/translationform
+        icon: fas fa-link
+        description: ''
+      - name: March7thAssistant:🎉 崩坏：星穹铁道全自动 Honkai Star Rail 🎉 - AtomGit | GitCode
+        url: https://gitcode.com/gh_mirrors/ma/March7thAssistant
+        icon: fas fa-link
+        description: ''
+      - name: 项目列表 - Mirror酱
+        url: https://mirrorchyan.com/zh/projects
+        icon: fas fa-link
+        description: ''
+      - name: 上新啦！郭熙言语必刷100题（2025版）1_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV135vAzPEWG/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+        icon: fas fa-link
+        description: ''
+      - name: DQ1重制版专题 - DQ World资料站
+        url: http://www.dqworldcn.com/dq1hd2d/page?page=log
+        icon: fas fa-link
+        description: ''
+      - name: 水端あさみ出演的 AV 在线看 - MissAV | 免费高清AV在线看
+        url: https://www.missav365.top/dm43/cn/actresses/%E6%B0%B4%E7%AB%AF%E3%81%82%E3%81%95%E3%81%BF?page=4
+        icon: fas fa-link
+        description: ''
+      - name: SPSB-093 水手玛莎神圣蜂蜜红色高跟鞋 Asami Mizuhata 35 0 - 水端あさみ - Mi
+        url: https://www.missav365.top/cn/spsb-093-uncensored-leak
+        icon: fas fa-link
+        description: ''
+      - name: livecamrips.to RassieRaph
+        url: https://livecamrips.to/model/344415/RassieRaph
+        icon: fas fa-link
+        description: ''
+      - name: chromewebstore.google.com
+        url: https://chromewebstore.google.com/detail/ublock-origin-development/cgbcahbpdhpcegmbfconppldiemgcoii
+        icon: fab fa-google
+        description: ''
+  - name: 编程技术
+    icon: fas fa-folder
+    path:
+      - 编程技术
+    subcategories:
+      - name: vue
+        icon: fas fa-folder
+        path:
+          - 编程技术
+          - vue
+        sites:
+          - name: 黑马程序员vue前端基础教程-4个小时带你快速入门vue_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV12J411m7MG/?vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+      - name: java
+        icon: fas fa-folder
+        path:
+          - 编程技术
+          - java
+        groups:
+          - name: springboot
+            icon: fas fa-folder
+            path:
+              - 编程技术
+              - java
+              - springboot
+            sites:
+              - name: 动力节点一课搞定SpringBoot教程-初学spring boot必备教程-springboot最新完整版_哔哩哔哩_bilibili
+                url: https://www.bilibili.com/video/BV1XQ4y1m7ex/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+                icon: fas fa-link
+                description: ''
+        sites:
+          - name: Java视频教程 - Java学习视频 - Java免费视频教程 - 动力节点
+            url: http://www.bjpowernode.com/javavideo.html
+            icon: fab fa-java
+            description: ''
+          - name: Java设计模式 - 动力节点
+            url: http://www.bjpowernode.com/shejimoshi/
+            icon: fas fa-link
+            description: ''
+          - name: javaSE面试题总结 java面试题总结 - ___mouM - 博客园
+            url: https://www.cnblogs.com/aknife/p/10988126.html
+            icon: fas fa-link
+            description: ''
+          - name: 线性表的抽象数据类型定义 - 动力节点
+            url: http://www.bjpowernode.com/tutorial_java_advance/1266.html
+            icon: fab fa-java
+            description: ''
+          - name: 红黑树(一)之 原理和算法详细介绍 - 如果天空不死 - 博客园
+            url: https://www.cnblogs.com/skywang12345/p/3245399.html
+            icon: fas fa-link
+            description: ''
+          - name: Java毕业设计选题项目源码论文下载 - 动力节点
+            url: http://www.bjpowernode.com/Video/javasheji.html
+            icon: fab fa-java
+            description: ''
+          - name: 最全的Java学习开发工具资料全套完整下载
+            url: http://www.bjpowernode.com/Video/ziliao.html
+            icon: fas fa-link
+            description: ''
+          - name: (14条消息) MyBatis学习笔记_weixin_45159265的博客-CSDN博客
+            url: https://blog.csdn.net/weixin_45159265/article/details/106383173
+            icon: fas fa-link
+            description: ''
+          - name: (1条消息) Spring知识点总结_lz1170063911的博客-CSDN博客
+            url: https://blog.csdn.net/lz1170063911/article/details/79772474
+            icon: fas fa-link
+            description: ''
+          - name: 芋道源码 —— 纯源码解析博客
+            url: http://www.iocoder.cn/?bilibili&java
+            icon: fab fa-java
+            description: ''
+          - name: JavaHome/Java基础学习 at master · whx123/JavaHome · GitHub
+            url: https://github.com/whx123/JavaHome/tree/master/Java%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0
+            icon: fab fa-github
+            description: ''
+      - name: 计算机学习书籍
+        icon: fas fa-folder
+        path:
+          - 编程技术
+          - 计算机学习书籍
+        sites:
+          - name: 'GitHub - justjavac/free-programming-books-zh_CN: 免费的计算机编程类中文书籍，欢迎投稿'
+            url: https://github.com/justjavac/free-programming-books-zh_CN
+            icon: fab fa-github
+            description: ''
+          - name: Open Research Library
+            url: https://openresearchlibrary.org/home
+            icon: fas fa-link
+            description: ''
+      - name: scala
+        icon: fas fa-folder
+        path:
+          - 编程技术
+          - scala
+        sites:
+          - name: ScalaTest
+            url: https://www.scalatest.org/at_a_glance/FlatSpec
+            icon: fas fa-link
+            description: ''
+      - name: python
+        icon: fas fa-folder
+        path:
+          - 编程技术
+          - python
+        sites:
+          - name: 'GitHub - jobbole/awesome-python-cn: Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。'
+            url: https://github.com/jobbole/awesome-python-cn
+            icon: fab fa-github
+            description: ''
+          - name: Search · awesome python · GitHub
+            url: https://github.com/search?q=awesome+python&type=
+            icon: fab fa-github
+            description: ''
+      - name: 算法
+        icon: fas fa-folder
+        path:
+          - 编程技术
+          - 算法
+        sites:
+          - name: 数据结构与算法基础（青岛大学-王卓）_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1nJ411V7bd/?vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 【尚硅谷】数据结构与算法（Java数据结构与算法）_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1E4411H73v/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 算法小白的 LeetCode 刷题顺序（持续更新2023/02/09） - 知乎
+            url: https://zhuanlan.zhihu.com/p/407414826
+            icon: fas fa-link
+            description: ''
+          - name: java学习路线挺全面的适合初学小白附思维导图（搬运） - 『编程语言讨论求助区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+            url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1552726
+            icon: fas fa-link
+            description: ''
+          - name: Index of /dist
+            url: http://archive.apache.org/dist/
+            icon: fas fa-link
+            description: ''
+      - name: c
+        icon: fas fa-folder
+        path:
+          - 编程技术
+          - c
+        sites:
+          - name: C 语言教程 - 网道
+            url: https://wangdoc.com/clang/
+            icon: fas fa-link
+            description: ''
+          - name: 《阮一峰《C 语言教程》》 - 书栈网 · BookStack
+            url: https://www.bookstack.cn/books/wangdoc-clang-tutorial
+            icon: fas fa-link
+            description: ''
+      - name: 破解
+        icon: fas fa-folder
+        path:
+          - 编程技术
+          - 破解
+        sites:
+          - name: 安卓软件教程大全 - 淘帖 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+            url: https://www.52pojie.cn/forum.php?mod=collection&action=view&ctid=1658
+            icon: fas fa-link
+            description: ''
+          - name: 零基础新手破解学习指导教程 - 『脱壳破解区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+            url: https://www.52pojie.cn/thread-327415-1-1.html
+            icon: fas fa-link
+            description: ''
+          - name: 从零开始Android逆向教程(一)——初探Android逆向 - 『移动安全区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+            url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=822434&page=1
+            icon: fas fa-link
+            description: ''
+          - name: 吾爱破解安卓逆向入门教程（六）---了解JAVA反编译工具 - 『移动安全区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+            url: https://www.52pojie.cn/thread-404285-1-1.html
+            icon: fas fa-link
+            description: ''
+      - name: shell
+        icon: fas fa-folder
+        path:
+          - 编程技术
+          - shell
+        sites:
+          - name: Shell 教程 | 菜鸟教程
+            url: https://www.runoob.com/linux/linux-shell.html
+            icon: fas fa-link
+            description: ''
+      - name: todo list
+        icon: fas fa-folder
+        path:
+          - 编程技术
+          - todo list
+        sites:
+          - name: Get Docker | Docker Documentation
+            url: https://docs.docker.com/get-docker/
+            icon: fab fa-docker
+            description: ''
+          - name: 尚硅谷Scala教程(大数据开发标配)_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV15t411H776?from=search&seid=6525907885148822157&spm_id_from=333.337.0.0
+            icon: fas fa-link
+            description: ''
+          - name: 如何系统地学习数据结构与算法？ - 知乎
+            url: https://zhuanlan.zhihu.com/p/137041568
+            icon: fas fa-link
+            description: ''
+          - name: 教你写出潇洒好字硬笔行楷72讲_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1rT4y1Q7cN?from=search&seid=6447966767040233667&spm_id_from=333.337.0.0
+            icon: fas fa-link
+            description: ''
+          - name: 尚硅谷韩顺平大数据技术之Scala数据结构和算法_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1yz4y1f7X1?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: Linux Shell全精通+Linux内核编程篇+Linux裸机开发篇+Linux驱动开发篇 Linux全栈开发_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1dt4y1H7Ln?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 浙江大学-操作系统（国家级精品课）_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1Ft411V7JR?p=62&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 2021考研操作系统(启蒙+套路解题，不一样的上分神器)_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/av18273642/?p=1&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: 非常好的Linux内核视频 - Linux内核精讲_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1tQ4y1d7mo?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+          - name: LeetCode &amp; Coding Interview Guide - Doocs Open Source Organization
+            url: https://doocs.github.io/leetcode/#/?id=%e7%ab%99%e7%82%b9
+            icon: fab fa-github
+            description: ''
+          - name: Java面试题及答案_Java面试宝典_Java笔试题-动力节点Java面试题
+            url: http://www.bjpowernode.com/tutorial_baseinterviewquestions/
+            icon: fas fa-link
+            description: ''
+          - name: Java视频教程_全套Java学习视频免费下载 - 动力节点
+            url: http://www.bjpowernode.com/javavideo.html
+            icon: fab fa-java
+            description: ''
+          - name: SpringBoot视频教程_SpringBoot从入门到精通_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+            url: https://www.bilibili.com/video/BV1u4411K7w9?p=12
+            icon: fas fa-link
+            description: ''
+          - name: Scala从零到精通（共20章节252P）_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+            url: https://www.bilibili.com/video/BV1mt4y117uk?spm_id_from=333.788.b_636f6d6d656e74.22
+            icon: fas fa-link
+            description: ''
+          - name: k8s教程由浅入深-尚硅谷_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1GT4y1A756?p=5&spm_id_from=pageDriver
+            icon: fas fa-link
+            description: ''
+          - name: 黑马程序员Java企业级实战开发《学成在线》微服务项目，基于SpringCloud、SpringCloudAlibaba技术栈开发，项目搭建到选课支付学习全通关_哔哩哔哩_bilibili
+            url: https://www.bilibili.com/video/BV1j8411N7Bm/?spm_id_from=444.41.list.card_archive.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+            icon: fas fa-link
+            description: ''
+  - name: 网站收藏
+    icon: fas fa-folder
+    path:
+      - 网站收藏
+    sites:
+      - name: 刁蛮公主 的搜索结果 - 最全云盘资源搜索神器 - UP云搜
+        url: https://www.upyunso.com/search.html?page=1&keyword=%E5%88%81%E8%9B%AE%E5%85%AC%E4%B8%BB
+        icon: fas fa-link
+        description: ''
+      - name: 实体书太贵？白嫖电子书的方法 - 资源 - 虫部落
+        url: https://www.chongbuluo.com/thread-13891-1-1.html
+        icon: fas fa-link
+        description: ''
+      - name: 'GitHub - Sheng1024/Nanjing-IT-Company-Directory: 南京IT公司名录'
+        url: https://github.com/Sheng1024/Nanjing-IT-Company-Directory
+        icon: fab fa-github
+        description: ''
+      - name: 首页 - 射手网(伪) - assrt.net - 字幕下载，字幕组，中文字幕，美剧字幕，英剧字幕，双语字幕，新番字幕
+        url: https://assrt.net/
+        icon: fas fa-link
+        description: ''
+      - name: 抖音视频下载器
+        url: https://greasyfork.org/zh-CN/scripts/443797-%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E5%99%A8
+        icon: fas fa-link
+        description: ''
+      - name: 33台词 - 通过台词找影片素材 - Wiki - 虫部落
+        url: https://www.chongbuluo.com/thread-8261-1-1.html
+        icon: fas fa-link
+        description: ''
+      - name: 4 个 Linux 命令搜索的网站，第二个我给满分 - Wiki - 虫部落
+        url: https://www.chongbuluo.com/thread-7745-1-1.html
+        icon: fas fa-link
+        description: ''
+      - name: 33台词 - 通过台词找影片素材
+        url: https://33.agilestudio.cn/
+        icon: fas fa-link
+        description: ''
+      - name: 虫部落快搜 - 搜索快人一步 - 搜狗知乎
+        url: https://search.chongbuluo.com/#
+        icon: fas fa-link
+        description: ''
+      - name: 新大陆：如何在 GitHub 上搜索一些很赞的项目 - Wiki - 虫部落
+        url: https://www.chongbuluo.com/thread-5179-1-1.html
+        icon: fas fa-link
+        description: ''
+      - name: 借助这个辅助词你可以轻松搜索到 GitHub 上的各种神器 - Wiki - 虫部落
+        url: https://www.chongbuluo.com/thread-5087-1-1.html
+        icon: fas fa-link
+        description: ''
+      - name: 小众软件论坛 - 蛙先知
+        url: https://www.waxianzhi.com/forum-282-1.html
+        icon: fas fa-link
+        description: ''
+      - name: 解锁一大波涨姿势的小众网站，总有你未曾涉足的新大陆 - 发现创造 - 虫部落
+        url: https://www.chongbuluo.com/thread-7961-1-1.html
+        icon: fas fa-link
+        description: ''
+      - name: 搜索老电影、老资料等的方法途径 - 问答 - 虫部落
+        url: https://www.chongbuluo.com/thread-7454-1-1.html
+        icon: fas fa-link
+        description: ''
+      - name: 最新windows话题 - 小众软件官方论坛
+        url: https://meta.appinn.net/tag/windows
+        icon: fas fa-link
+        description: ''
+      - name: CS自学指南
+        url: https://csdiy.wiki/
+        icon: fas fa-link
+        description: ''
+      - name: 依小耶 - 图博 - 图虫
+        url: http://tuchong.com/1745920/
+        icon: fas fa-link
+        description: ''
+      - name: '93701'
+        url: https://art.alphacoders.com/arts/view/93701
+        icon: fas fa-link
+        description: ''
+      - name: 首页 - 射手网(伪) - assrt.net - 字幕下载，字幕组，中文字幕，美剧字幕，英剧字幕，双语字幕，新番字幕
+        url: https://assrt.net/
+        icon: fas fa-link
+        description: ''
+      - name: MSDN, 我告诉你 - 做一个安静的工具站
+        url: https://msdn.itellyou.cn/
+        icon: fas fa-link
+        description: ''
+  - name: 搜索技术
+    icon: fas fa-folder
+    path:
+      - 搜索技术
+    sites:
+      - name: 微博图片反查
+        url: https://github.com/fei-ke/WeiboImageReverse
+        icon: fab fa-github
+        description: ''
+      - name: 浅聊人肉搜索的一些思路 - 知乎
+        url: https://zhuanlan.zhihu.com/p/28349679
+        icon: fas fa-link
+        description: ''
+      - name: 微指数
+        url: https://data.weibo.com/index/newindex?visit_type=search&wid=1091324287710,1020000005700
+        icon: fas fa-link
+        description: ''
+      - name: 用户脚本
+        url: https://greasyfork.org/zh-CN/scripts?q=%E5%B9%BF%E5%91%8A
+        icon: fas fa-link
+        description: ''
+      - name: 电子书搜索 - 找电子书 - Google
+        url: https://www.giffox.com/
+        icon: fas fa-link
+        description: ''
+      - name: 孔网搜索：金波
+        url: https://search.kongfz.com/product_result/?key=%E9%87%91%E6%B3%A2&status=0&_stpmt=eyJzZWFyY2hfdHlwZSI6ImFjdGl2ZSJ9
+        icon: fas fa-link
+        description: ''
+      - name: 搜狗微信搜索_订阅号及文章内容独家收录，一搜即达
+        url: https://weixin.sogou.com/
+        icon: fas fa-link
+        description: ''
+      - name: 百度指数
+        url: https://index.baidu.com/v2/index.html#/
+        icon: fas fa-link
+        description: ''
+      - name: 社会组织 查询_百度搜索
+        url: https://www.baidu.com/s?ie=utf-8&wd=%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87+%E6%9F%A5%E8%AF%A2
+        icon: fas fa-link
+        description: ''
+  - name: 锻炼
+    icon: fas fa-folder
+    path:
+      - 锻炼
+    sites:
+      - name: 張蕙蘭_瑜珈_02_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1BD4y1D7pE/?p=2&spm_id_from=pageDriver&vd_source=feb53d1c8f5279699c1c89d798b1214d
+        icon: fas fa-link
+        description: ''
+      - name: 俯卧撑第一式 墙壁俯卧撑_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1Nb411G7Gi?p=34&vd_source=feb53d1c8f5279699c1c89d798b1214d
+        icon: fas fa-link
+        description: ''
+      - name: 《囚徒健身》五艺十式中文字幕视频全集_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV13x411972U/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+        icon: fas fa-link
+        description: ''
+      - name: 董娟生活瑜伽睡前瑜伽_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1ip411R7aJ/?vd_source=feb53d1c8f5279699c1c89d798b1214d
+        icon: fas fa-link
+        description: ''
+  - name: 书籍下载
+    icon: fas fa-folder
+    path:
+      - 书籍下载
+    sites:
+      - name: zhelper Search Page 搜索界面 🔍
+        url: https://search.zhelper.net/?[{%22name%22:%22zlib.app%22,%22url%22:%22https://api.zlib.app%22,%22type%22:%22full%22,%22sensitive%22:false,%22detail%22:false,%22download%22:%22https://d.zlib.app/download/%22}]
+        icon: fas fa-link
+        description: ''
+      - name: 易书 电子书聚合搜索引擎
+        url: https://search.yibook.org/
+        icon: fas fa-link
+        description: ''
+      - name: Book Searcher
+        url: https://zlibrary.shuziyimin.org/
+        icon: fas fa-link
+        description: ''
+      - name: zBook
+        url: https://zbook.lol/
+        icon: fas fa-link
+        description: ''
+      - name: 休谟 - Search - Anna’s Archive
+        url: https://annas-archive.org/search?q=%E4%BC%91%E8%B0%9F
+        icon: fas fa-link
+        description: ''
+      - name: 'GitHub - FuZhucheng/SSM: J2EE项目系列（四）–SSM框架构建积分系统和基本商品检索系统（Spring+SpringMVC+MyBatis+Lucene+Redis+MAVEN）'
+        url: https://github.com/FuZhucheng/SSM
+        icon: fab fa-github
+        description: ''
+  - name: 游戏
+    icon: fas fa-folder
+    path:
+      - 游戏
+    sites:
+      - name: switch游戏下载_第 3 页_switch520游戏网
+        url: https://www.switch520.org/switch/page/3
+        icon: fas fa-link
+        description: ''
+      - name: 非常有趣的PC单机版游戏《虫虫大作战》 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+        url: https://www.52pojie.cn/thread-642200-1-1.html
+        icon: fas fa-link
+        description: ''
+      - name: 【新游推荐】数码宝贝物语：网路侦探骇客追忆官方中文 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+        url: https://www.52pojie.cn/thread-1039573-1-1.html
+        icon: fas fa-link
+        description: ''
+      - name: 【经典怀旧】轩辕剑全系列完美典藏版 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+        url: https://www.52pojie.cn/thread-1012180-1-1.html
+        icon: fas fa-link
+        description: ''
+      - name: 【经典怀旧】英雄传说：轨迹系列PC合集 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+        url: https://www.52pojie.cn/thread-1016253-1-1.html
+        icon: fas fa-link
+        description: ''
+  - name: 练字
+    icon: fas fa-folder
+    path:
+      - 练字
+    sites:
+      - name: 【单字合集】爆肝300P！！！2021年仇康楷书、行楷讲解版 不断更新，建议收藏！！_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1Tt4y1r7ny/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+        icon: fas fa-link
+        description: ''
+      - name: 写字班唐老师的个人空间_哔哩哔哩_bilibili
+        url: https://space.bilibili.com/1445455523/channel/collectiondetail?sid=30500&ctype=0
+        icon: fas fa-link
+        description: ''
+      - name: 华夏万卷吴玉生硬笔行楷字帖配套视频教程（最新版）_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV13T4y1L7T6/?spm_id_from=333.337.search-card.all.click&vd_source=feb53d1c8f5279699c1c89d798b1214d
+        icon: fas fa-link
+        description: ''
+  - name: 在线工具
+    icon: fas fa-folder
+    path:
+      - 在线工具
+    sites:
+      - name: 在线工具 - 程序员的工具箱
+        url: https://tool.lu/
+        icon: fas fa-link
+        description: ''
+      - name: 在线工具
+        url: http://www.ilkhome.cn/science/tool/
+        icon: fas fa-link
+        description: ''
+      - name: 爱盘 - 最新的在线破解工具包
+        url: https://down.52pojie.cn/Tools/
+        icon: fas fa-link
+        description: ''
+      - name: 在线HTML代码格式化、HTML代码美化工具
+        url: https://www.qianbo.com.cn/Tool/Beautify/Html-Formatter.html
+        icon: fas fa-link
+        description: ''
+  - name: 软件
+    icon: fas fa-folder
+    path:
+      - 软件
+    sites:
+      - name: PotPlayer v1.6.63891便携稳定版+插件 流畅清晰且友好老机型 不更新后续版本 搬运 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+        url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1263657&extra=page%3D4%26filter%3Dtypeid%26typeid%3D231
+        icon: fas fa-link
+        description: ''
+      - name: 【运行库大礼包】All in One Runtimes 2.5.0简体中文版 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn
+        url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1274636&extra=page%3D4%26filter%3Dtypeid%26typeid%3D231
+        icon: fas fa-link
+        description: ''
+      - name: Windows 11 MSDN 官方原版系统镜像下载 | 专辑 | 更新 UUP 专制
+        url: https://dbmer.com/win/msdn/windows-11-msdn/
+        icon: fas fa-link
+        description: ''
+  - name: 常用网站收藏
+    icon: fas fa-folder
+    path:
+      - 常用网站收藏
+    sites:
+      - name: 往前方资源网-你想要的这里都有-最新发布-第2页
+        url: http://qianfangzy.com/page/2
+        icon: fas fa-link
+        description: ''
+      - name: 福利吧地址发布页
+        url: http://lao4g.com/
+        icon: fas fa-link
+        description: ''
+      - name: 用户脚本
+        url: https://sleazyfork.org/zh-CN/scripts
+        icon: fas fa-link
+        description: ''
+      - name: Greasy Fork - 安全且实用的用户脚本站
+        url: https://greasyfork.org/zh-CN
+        icon: fas fa-link
+        description: ''
+      - name: AlternativeTo - Crowdsourced software recommendations
+        url: https://alternativeto.net/
+        icon: fas fa-link
+        description: ''
+      - name: DAREBEE - Home Workouts
+        url: https://darebee.com/
+        icon: fas fa-link
+        description: ''
+      - name: InfiniCLOUD Login
+        url: https://login.infini-cloud.net/oauth2/auth
+        icon: fas fa-link
+        description: ''
+      - name: Vocal Remover and Isolation [AI]
+        url: https://vocalremover.org/
+        icon: fas fa-link
+        description: ''
+      - name: A Real Me - Test to Know Yourself
+        url: https://www.arealme.com/
+        icon: fas fa-link
+        description: ''
+      - name: Ninite - Install or Update Multiple Apps at Once
+        url: https://ninite.com/
+        icon: fas fa-link
+        description: ''
+      - name: PortableApps.com - Portable software for USB, portable, and cloud drives
+        url: https://portableapps.com/
+        icon: fas fa-link
+        description: ''
+      - name: LITERA Reader
+        url: https://reader5.z-library.sk/?source=ee8cfd170dd7d54cae102563c0119b164438f43168c82367fb9c336df40316e1
+        icon: fas fa-link
+        description: ''
+      - name: '林中雨滴: search on Z-Library'
+        url: https://z-library.sk/s/%E6%9E%97%E4%B8%AD%E9%9B%A8%E6%BB%B4?
+        icon: fas fa-link
+        description: ''
+      - name: Windows 11 超级精简版！ Tiny11 （24H2） 官方下载ISO-零度博客
+        url: https://www.freedidi.com/16719.html
+        icon: fas fa-link
+        description: ''
+      - name: Cerebras Inference
+        url: https://inference.cerebras.ai/
+        icon: fas fa-link
+        description: ''
+      - name: 从电脑桌面端开始吧！
+        url: https://www.notion.so/10d7d95298e0806cbe68d2cbb8ed1767
+        icon: fas fa-link
+        description: ''
+      - name: '林中雨滴: search on Z-Library'
+        url: https://z-lib.gs/s/%E6%9E%97%E4%B8%AD%E9%9B%A8%E6%BB%B4?
+        icon: fas fa-link
+        description: ''
+      - name: Lol Script is Fully Undetected | League of Legends Scripts with Lol Script | Start Scripting Today!
+        url: https://lolscript.com/
+        icon: fas fa-link
+        description: ''
+      - name: 【PC/汉化】骑士四重奏 - ユニオリズム・カルテット | TouchGal
+        url: https://www.touchgal.io/e21b9a8d/
+        icon: fas fa-link
+        description: ''
+      - name: Landing Page - China Digital Space
+        url: https://chinadigitaltimes.net/space/Landing_Page
+        icon: fas fa-link
+        description: ''
+      - name: Discover — Bluesky
+        url: https://bsky.app/
+        icon: fas fa-link
+        description: ''
+  - name: 已导入
+    icon: fas fa-folder
+    path:
+      - 已导入
+    sites:
+      - name: MediaFire - File sharing and storage made simple
+        url: https://app.mediafire.com/myfiles
+        icon: fas fa-link
+        description: ''
+      - name: 新标签页
+        url: chrome://newtab/
+        icon: fas fa-link
+        description: ''
+      - name: 书签
+        url: chrome://bookmarks/
+        icon: fas fa-link
+        description: ''
+  - name: todoList
+    icon: fas fa-folder
+    path:
+      - todoList
+    sites:
+      - name: 江苏省2026年度考试录用公务员（南京市）网上报名 填写基本信息
+        url: http://218.94.85.11:8000/Progress/BasicInfo?examid=00251020145435&sid=01085377&step=info
+        icon: fas fa-link
+        description: ''
+      - name: (377) How I Find Time for Everything - YouTube
+        url: https://www.youtube.com/watch?v=jvGnBnKiYhc&list=PLeMrc9psFYLIr5iMBOQyIe8DxKLNVbi4M&index=2
+        icon: fab fa-youtube
+        description: ''
+      - name: 列、标题和分隔符 – Notion帮助中心
+        url: https://www.notion.com/zh-cn/help/columns-headings-and-dividers#table-des-matieres
+        icon: fas fa-link
+        description: ''
+      - name: 3DMGAME-PSP.Growlanser.CN.rar_免费高速下载|百度网盘-分享无限制
+        url: https://pan.baidu.com/s/14GTAbClLNSW03mhabVQrjA?pwd=cpd2
+        icon: fas fa-link
+        description: ''
+      - name: 高照速算链接_免费高速下载|百度网盘-分享无限制
+        url: https://pan.baidu.com/s/1VlGFLlAUR8gKLPEEi1qIzw?from=init#list/path=%2F
+        icon: fas fa-link
+        description: ''
+      - name: 综合应用能力A类基础理论（事业单位）——公考小马哥_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1DaAceDEc7/?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2206146-8k2m6.1767418868910.200&vd_source=feb53d1c8f5279699c1c89d798b1214d
+        icon: fas fa-link
+        description: ''
+      - name: 安徽省人事考试网
+        url: http://www.apta.net.cn/Officer
+        icon: fas fa-link
+        description: ''
+      - name: 03.【数量】周期问题+专项练习_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV14xzaBAECF?spm_id_from=333.788.videopod.episodes&vd_source=feb53d1c8f5279699c1c89d798b1214d&p=3
+        icon: fas fa-link
+        description: ''
+      - name: TouchGal - 一站式Galgame文化社区!
+        url: https://www.touchgal.top/
+        icon: fas fa-link
+        description: ''
+      - name: TouchGAL资源盘
+        url: https://pan.touchgal.net/s/YVa6Ca
+        icon: fas fa-link
+        description: ''
+      - name: 哥特少女勇闯恶魔城2 | sinisistar2 | PC 游戏 - TouchGal
+        url: https://www.touchgal.top/157aea98
+        icon: fas fa-link
+        description: ''
+      - name: ''
+        url: https://searchgal.homes/
+        icon: fas fa-link
+        description: ''
+      - name: github.com/OpenListTeam/OpenList
+        url: https://github.com/OpenListTeam/OpenList
+        icon: fab fa-github
+        description: ''
+      - name: 梦幻之樱2 | 夢幻のさくら2 | PC 游戏 - TouchGal
+        url: https://www.touchgal.top/fa35c86a
+        icon: fas fa-link
+        description: ''
+      - name: X99资源导航
+        url: https://x98.one/?ref=https%3A%2F%2Fwww.missav-ai.top%2Fsearch%2F%25E7%2597%2585%25E6%25A3%259F%3Fpage%3D9
+        icon: fas fa-link
+        description: ''
+      - name: Releases · ollama/ollama
+        url: https://github.com/ollama/ollama/releases
+        icon: fab fa-github
+        description: ''
+      - name: (106) 비오는 날, 제주 카페에서 같이 공부해요(study with me, rain sound) | 수린 suzlnne - YouTube
+        url: https://www.youtube.com/watch?v=r67Vr-okJfc&list=PLfYKerZZOLYFobTmwvUjpycGO8XwKV9E7&index=17
+        icon: fab fa-youtube
+        description: ''
+      - name: 安徽省人事考试网
+        url: http://www.apta.net.cn/Officer_Welcome
+        icon: fas fa-link
+        description: ''
+      - name: React 学习资源导航
+        url: https://react.knowledgefxg.com/
+        icon: fas fa-link
+        description: ''
+      - name: 英语学习资源导航 | 全网最全
+        url: https://en.knowledgefxg.com/#term-12
+        icon: fas fa-link
+        description: ''
+      - name: pan.quark.cn
+        url: https://pan.quark.cn/s/0c7681a2d5a4
+        icon: fas fa-link
+        description: ''
+      - name: 勇者斗恶龙3 HD-2D重制版|本体+1.1.2补丁+5DLC|中文|XCI|Dragon Quest III HD-2D Remake | SWITCH618游戏公益分享
+        url: https://www.switch618.com/114558.html
+        icon: fas fa-link
+        description: ''
+      - name: 游戏导航大全 - 免费单机/主机/独立游戏及模组下载及官方入口导航
+        url: https://youxi.ggonav.com/
+        icon: fas fa-link
+        description: ''
+      - name: 百变小樱第64集-番剧-全集-高清正版在线观看-bilibili-哔哩哔哩
+        url: https://www.bilibili.com/bangumi/play/ep86263?theme=movie&spm_id_from=333.337.0.0&from_spmid=666.25.episode.0
+        icon: fas fa-link
+        description: ''
+      - name: (8) X 上的 Lee1ng：“当现实中的国家信访局失能的时候，就需要https://t.co/SxNf7clZXP的出现。 在https://t.co/SxNf7clZXP，让你的境遇，掷地有声。” / X
+        url: https://x.com/lilaoshizuikeai/status/2019755971149431153
+        icon: fas fa-link
+        description: ''
+      - name: ww17.hannime1.me
+        url: http://ww17.hannime1.me/
+        icon: fas fa-link
+        description: ''
+  - name: 技能skills 2026
+    icon: fas fa-folder
+    path:
+      - 技能skills 2026
+    subcategories:
+      - name: excel
+        icon: fas fa-folder
+        path:
+          - 技能skills 2026
+          - excel
+        sites:
+          - name: 小白如何系统学习Excel？超全学习资源分享！
+            url: https://www.zhihu.com/tardis/zm/art/90238079
+            icon: fas fa-link
+            description: ''
+          - name: Excel图文教程-ExcelHome
+            url: https://www.excelhome.net/article/excel-article
+            icon: fas fa-link
+            description: ''
+          - name: ExcelHome - 全球极具影响力的Excel门户,Office视频教程培训中心
+            url: https://www.excelhome.net/
+            icon: fas fa-link
+            description: ''
+          - name: Excelbook.cn 一起学习Excel，一起学习SQL，一起学习Python
+            url: http://excelbook.cn/
+            icon: fas fa-link
+            description: ''
+          - name: Excel 帮助和学习
+            url: https://support.microsoft.com/zh-cn/excel
+            icon: fab fa-microsoft
+            description: ''
+      - name: to do download
+        icon: fas fa-folder
+        path:
+          - 技能skills 2026
+          - to do download
+        sites:
+          - name: Excel 最强教科书 | 藤井直弥, 大山启介 著 , 王娜, 李利, 祁芳芳 译 | download on Z-Library
+            url: https://zh.z-library.sk/book/Bj4wk6Y8R3/excel-%E6%9C%80%E5%BC%BA%E6%95%99%E7%A7%91%E4%B9%A6.html
+            icon: fas fa-link
+            description: ''
+          - name: Excel之光：高效工作的Excel完全手册 | 冯注龙、丘荣茂 | download on Z-Library
+            url: https://zh.z-library.sk/book/qOXQmZ20Rk/excel%E4%B9%8B%E5%85%89%E9%AB%98%E6%95%88%E5%B7%A5%E4%BD%9C%E7%9A%84excel%E5%AE%8C%E5%85%A8%E6%89%8B%E5%86%8C.html
+            icon: fas fa-link
+            description: ''
+          - name: Excel数据分析思维、技术与实践 | 周庆麟 / 胡子平 | download on Z-Library
+            url: https://zh.z-library.sk/book/wRNdZpDPv9/excel%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%80%9D%E7%BB%B4%E6%8A%80%E6%9C%AF%E4%B8%8E%E5%AE%9E%E8%B7%B5.html
+            icon: fas fa-link
+            description: ''
+      - name: 公務員
+        icon: fas fa-folder
+        path:
+          - 技能skills 2026
+          - 公務員
+        sites:
+          - name: 公務員
+            url: http://t.cn/A6SKv1Ze
+            icon: fas fa-link
+            description: ''
+      - name: todo read
+        icon: fas fa-folder
+        path:
+          - 技能skills 2026
+          - todo read
+        sites:
+          - name: (376) Mariana Vieira - YouTube
+            url: https://www.youtube.com/@mariana-vieira/playlists
+            icon: fab fa-youtube
+            description: ''
+      - name: 研究课题
+        icon: fas fa-folder
+        path:
+          - 技能skills 2026
+          - 研究课题
+        groups:
+          - name: 用脑疲劳
+            icon: fas fa-folder
+            path:
+              - 技能skills 2026
+              - 研究课题
+              - 用脑疲劳
+            sites:
+              - name: 用脑过度如何导致疲劳 - 网上邻居 - 蛙先知
+                url: https://www.waxianzhi.com/thread-501-1-1.html
+                icon: fas fa-link
+                description: ''
+      - name: 教导
+        icon: fas fa-folder
+        path:
+          - 技能skills 2026
+          - 教导
+        sites:
+          - name: 浅谈高中英语词汇的学习技巧 - 道客巴巴
+            url: https://www.doc88.com/p-98839467997.html
+            icon: fas fa-link
+            description: ''
+          - name: 徐燕菊老师
+            url: https://www.doc88.com/p-98839467997.html
+            icon: fas fa-link
+            description: ''
+    sites:
+      - name: 'GitHub - glitternetwork/pinme: Deploy Your Frontend in a Single Command. Claude Code Skills supported. · GitHub'
+        url: https://github.com/glitternetwork/pinme
+        icon: fab fa-github
+        description: ''
+      - name: https://delphi.tools/
+        url: https://t.co/3fbsrMBgpt
+        icon: fas fa-link
+        description: ''
+      - name: Excel知识 - Excel交流学习、表格求助、技巧教程
+        url: http://www.ffcell.com/wenku/index.aspx?gid=3
+        icon: fas fa-link
+        description: ''
+      - name: '(231) 30-Minute Ultimate OpenClash Guide: Best FakeIP Deployment, No DNS Pollution, No DNS Leaks, Autom... - YouTube'
+        url: https://www.youtube.com/watch?v=S2l_0g4EOHk
+        icon: fab fa-youtube
+        description: ''
+      - name: 電腦王阿達
+        url: https://www.koc.com.tw/
+        icon: fas fa-link
+        description: ''
+      - name: 历史记录
+        url: https://raw.githubusercontent.com/free-nodes/clashfree/refs/heads/main/clash20260330.yml
+        icon: fas fa-link
+        description: ''
+      - name: Node.js零基础教程，nodejs新手到高手（es6模块化、npm、express、Mongodb）_哔哩哔哩_bilibili
+        url: https://www.bilibili.com/video/BV1gM411W7ex/?vd_source=feb53d1c8f5279699c1c89d798b1214d
+        icon: fas fa-link
+        description: ''
+      - name: (264) 2026 最强 Cloudflare 免费VPN自建！无限复活、永久可用｜全球高速节点｜秒开4K8K | 零度解说 - YouTube
+        url: https://www.youtube.com/watch?v=chcFg878840&t=189s
+        icon: fab fa-youtube
+        description: ''
+      - name: 我的免费域名管理 - DNSHE.COM
+        url: https://my.dnshe.com/index.php?m=domain_hub
+        icon: fas fa-link
+        description: ''
+      - name: tsubasa-syaoran
+        url: https://github.com/tsubasa-syaoran
+        icon: fab fa-github
+        description: ''
+      - name: 归档 | CMLiussss Blog
+        url: https://blog.cmliussss.com/archives/
+        icon: fas fa-link
+        description: ''
+      - name: Bamboo 极客解说 | Bamboo 极客解说
+        url: https://blog.englitime.com/
+        icon: fas fa-link
+        description: ''
+  - name: 我的域名
+    icon: fas fa-folder
+    path:
+      - 我的域名
+    sites:
+      - name: 域名注册购买,云服务器,云产品,企业邮箱,网站安全
+        url: https://www.gname.net/user_gwc/pay
+        icon: fas fa-link
+        description: ''
+      - name: Client Area - DNSHE
+        url: https://my.dnshe.com/clientarea.php
+        icon: fas fa-link
+        description: ''
