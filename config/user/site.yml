@@ -2,11 +2,11 @@
 # 建议复制到 config/user/site.yml 并按需调整；用户配置采用“完全替换”策略，将覆盖默认配置。
 
 # 网站基本信息
-title: MeNav
+title: SyaoranNav
 description: Personal Navigation Station
 author: rbetree
 favicon: menav.svg
-logo_text: MeNav
+logo_text: Nav
 
 icons:
   # 站点卡片图标模式：
@@ -64,7 +64,7 @@ profile:
   # 注意：首页（导航第一项）标题区优先使用 profile.title/profile.subtitle
   # 因此建议把首页希望展示的文案写在这里，避免“改了 pages/<首页id>.yml 但首页不生效”的误会
   title: Hello,
-  subtitle: Welcome to My Navigation
+  subtitle: Welcome to Syaoran Navigation
 
 # RSS（Phase 2）：用于 articles 页面文章聚合
 # 说明：
@@ -88,7 +88,7 @@ rss:
 # - username：你的 GitHub 用户名（例如 torvalds）
 # - heatmapColor：热力图主题色（不带 #，例如 339af0）
 github:
-  username: 'rbetree' # 你的 GitHub 用户名（例如 torvalds；为空则 projects 页不展示热力图）
+  username: 'tsubasa-syaoran' # 你的 GitHub 用户名（例如 torvalds；为空则 projects 页不展示热力图）
   heatmapColor: 37b24d
   cacheDir: dev # projects 仓库元信息缓存目录（默认 dev，仓库默认 gitignore）
 
